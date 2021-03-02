@@ -1,0 +1,14 @@
+---
+title: "Wade Simmons"
+output:
+  html_document:
+    df_print: paged
+---
+
+* Wade's background is in terrestrial ecology, but now find himself studying aquatic systems. 
+* Wade is now involved in biological control, despite having no previous experience working with insects. 
+* Wade works with water chestnut. No, I'm sorry, it's not the same species as what you had in your stir fry last night. 
+
+
+
+
