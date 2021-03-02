@@ -1,0 +1,17 @@
+---
+title: "Assignment 3 Index Page"
+author: "Audrey"
+date: "3/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Welcome To Owlr Website
+
+This website is a collaboration between Wade P. Simmons and Audrey E. Bowe.  
+
+![](https://wpr-public.s3.amazonaws.com/wprorg/styles/resp_orig_custom_user_wide_1x/s3/field/image/ap_20113654209607.jpg?itok=i34wWkKG)
+

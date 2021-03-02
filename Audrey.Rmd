@@ -1,0 +1,19 @@
+---
+title: "Assignment 3 Audrey Page"
+author: "Audrey"
+date: "3/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Audrey
+
+is looking forward to the following:
+
+* The [Cornell Barred Owl Cam](https://www.allaboutbirds.org/cams/barred-owls/) going live
+* Planting acorns this week
+* Submitting this homework on time
+
